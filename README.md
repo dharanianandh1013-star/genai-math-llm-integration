@@ -4,8 +4,11 @@
 To design and implement a Python function for calculating the volume of a cylinder, integrate it with a chat completion system utilizing the function-calling feature of a large language model (LLM).
 
 ### PROBLEM STATEMENT:
+Design and implement a system where a user can input integers and perform multiplication,
+and the system calculates its volume by invoking a Python function using the function-calling capabilities of an LLM.
 
 ### DESIGN STEPS:
+
 ### STEP 1:
 Import Necessary Libraries: Import os, openai, json, and dotenv to handle API key management, function calling, and JSON data parsing.
 
